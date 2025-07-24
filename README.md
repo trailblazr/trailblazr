@@ -5,12 +5,15 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VScode-2F80ED?style=flat-square&logo=vscodium&logoColor=white)
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)
+![vi](https://img.shields.io/badge/-vi-019733?style=flat-square&logo=vim&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPI-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-86BE43?style=flat-square&logo=linuxmint&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
 ![tvOS](https://img.shields.io/badge/-AppleTV-000000?style=flat-square&logo=appletv&logoColor=white)
+![QNAP](https://img.shields.io/badge/-QNAP-0C2E82?style=flat-square&logo=qnap&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
 ![Obj-C](https://img.shields.io/badge/-Obj--C-000000?style=flat-square&logo=apple&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -20,7 +23,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-F43059?style=flat-square&logo=csswizardry&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![nginx](https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 
 ![PlatformIO](https://img.shields.io/badge/-PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -29,8 +35,10 @@
 ![Thunderbird](https://img.shields.io/badge/-Thunderbird-0A84FF?style=flat-square&logo=thunderbird&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![OBS](https://img.shields.io/badge/-OBS--Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white)
-![QNAP](https://img.shields.io/badge/-QNAP-0C2E82?style=flat-square&logo=qnap&logoColor=white)
-
+![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white)
+![Signal](https://img.shields.io/badge/-Signal-3B45FD?style=flat-square&logo=signal&logoColor=white)
+![VLC](https://img.shields.io/badge/-VLC-FF8800?style=flat-square&logo=vlcmediaplayer&logoColor=white)
+![Rclone](https://img.shields.io/badge/-rclone-3F79AD?style=flat-square&logo=rclone&logoColor=white)
 
 > Shipping native iOS apps since 2009 - love programming as a way to express myself
 
