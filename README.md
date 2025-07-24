@@ -12,9 +12,9 @@
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
 ![tvOS](https://img.shields.io/badge/-AppleTV-000000?style=flat-square&logo=appletv&logoColor=white)
 
-![Obj-C](https://img.shields.io/badge/-ObjC-000000?style=flat-square&logo=apple&logoColor=white)
+![Obj-C](https://img.shields.io/badge/-Obj--C-000000?style=flat-square&logo=apple&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-Cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-F43059?style=flat-square&logo=csswizardry&logoColor=white)
@@ -28,7 +28,7 @@
 ![Vivaldi](https://img.shields.io/badge/-Vivaldi-F3939?style=flat-square&logo=vivaldi&logoColor=white)
 ![Thunderbird](https://img.shields.io/badge/-Thunderbird-0A84FF?style=flat-square&logo=thunderbird&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![OBS](https://img.shields.io/badge/-OBSstudio-302E31?style=flat-square&logo=obsstudio&logoColor=white)
+![OBS](https://img.shields.io/badge/-OBS--Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white)
 ![QNAP](https://img.shields.io/badge/-QNAP-0C2E82?style=flat-square&logo=qnap&logoColor=white)
 
 
@@ -44,7 +44,7 @@
 - **[Tasks Pro](https://apps.apple.com/app/id1019859914)** - little & very simple todo list app designed to be quick
 - **[Coordinates Pro](https://apps.apple.com/app/id1245148768)** - iOS tool to handle geo-coordinates
 - **[GDPR Helper](https://apps.apple.com/app/id6747380566)** - a playful guide to understanding data protection
-- **[Sonnenstand pro](https://apps.apple.com/app/id1054805559)** - just a simple app for astromechanics of the sun
+- **[Sonnenstand Pro](https://apps.apple.com/app/id1054805559)** - just a simple app for astromechanics of the sun
 - **[Hackerspace Bremen](https://apps.apple.com/app/id707128929)** - Events and status of Hackerspace Bremen e.V.
 
 ### Work-in-Progress
