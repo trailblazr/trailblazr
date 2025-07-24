@@ -6,6 +6,12 @@
 ![VSCode](https://img.shields.io/badge/-vscode-2F80ED?style=flat-square&logo=vscodium&logoColor=white)
 ![Sketch](https://img.shields.io/badge/-sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-qgis-589632?style=flat-square&logo=qgis&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/-raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-86BE43?style=flat-square&logo=linuxmint&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/-ios-000000?style=flat-square&logo=ios&logoColor=white)
+![tvOS](https://img.shields.io/badge/-appletv-000000?style=flat-square&logo=appletv&logoColor=white)
+
 ![Obj-C](https://img.shields.io/badge/-objc-000000?style=flat-square&logo=apple&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -14,19 +20,16 @@
 ![CSS](https://img.shields.io/badge/-css-F43059?style=flat-square&logo=csswizardry&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=react&logoColor=white)
+![OWASP](https://img.shields.io/badge/-owasp-000000?style=flat-square&logo=owasp&logoColor=white)
 
-![RaspberryPi](https://img.shields.io/badge/-raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/-platformio-F5822A?style=flat-square&logo=platformio&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-esp32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![OSM](https://img.shields.io/badge/-openstreetmap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 ![Vivaldi](https://img.shields.io/badge/-vivaldi-F3939?style=flat-square&logo=vivaldi&logoColor=white)
 ![Thunderbird](https://img.shields.io/badge/-thunderbird-0A84FF?style=flat-square&logo=thunderbird&logoColor=white)
-![OSM](https://img.shields.io/badge/-openstreetmap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/-platformio-F5822A?style=flat-square&logo=platformio&logoColor=white)
-![OBS](https://img.shields.io/badge/-obsstudio-302E31?style=flat-square&logo=obsstudio&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-latex-008080?style=flat-square&logo=latex&logoColor=white)
-![OWASP](https://img.shields.io/badge/-owasp-000000?style=flat-square&logo=owasp&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/-ios-000000?style=flat-square&logo=ios&logoColor=white)
-![tvOS](https://img.shields.io/badge/-appletv-000000?style=flat-square&logo=appletv&logoColor=white)
+![OBS](https://img.shields.io/badge/-obsstudio-302E31?style=flat-square&logo=obsstudio&logoColor=white)
+![QNAP](https://img.shields.io/badge/-qnap-0C2E82?style=flat-square&logo=qnap&logoColor=white)
 
 
 > Shipping native iOS apps since 2009 - love programming as a way to express myself
@@ -64,7 +67,7 @@
 ## What I'm Doing
 
 - **Crafting apps** - Since I started [developing apps](http://appdoctors.de) I did not yet abandon it
-- **Geospatail Data** - For my [most recent employer](https://planblue.com) I did lots of geospatial data processing using Python, QGIS, PyQGIS, etc.
+- **Geospatial Data** - For my [most recent employer](https://planblue.com) I did lots of geospatial data processing using Python, QGIS, PyQGIS, etc.
 - **Hacking** - I love tinkering with tech, I do it in two Hackerspaces at [CCC Bremen e.V.](https://ccchb.de) and [Hackerspace Bremen e.V.](https://hshb.de)
 
 ### Famous Blog Posts
