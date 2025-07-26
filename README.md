@@ -40,7 +40,9 @@
 ![VLC](https://img.shields.io/badge/-VLC-FF8800?style=flat-square&logo=vlcmediaplayer&logoColor=white)
 ![Rclone](https://img.shields.io/badge/-rclone-3F79AD?style=flat-square&logo=rclone&logoColor=white)
 
-> Shipping native iOS apps since 2009 - love programming as a way to express myself
+> Shipping native iOS apps written in Objective-C since 2009 - love programming as a way to express myself
+
+<img src="obj-c-dude.png" alt="Obj-C rocks" width="300" height="300">
 
 ## Current Projects
 
